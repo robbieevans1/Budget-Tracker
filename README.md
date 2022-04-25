@@ -24,7 +24,7 @@ This project allows users to track their spending habits, even if they do not ha
 
 ## Screenshot
 
-<img width="1440" alt="Screen Shot 2022-04-24 at 7 13 11 AM" src="https://user-images.githubusercontent.com/80990468/165078457-d1e7aca6-d183-4d1c-9947-0fabfe9a0dd4.png">
+<img width="1440" alt="Screen Shot 2022-04-25 at 7 09 04 AM" src="https://user-images.githubusercontent.com/80990468/165078562-f906e56f-5b80-4417-a6f7-c534176ba3a6.png">
 
 ## Questions
 ### if you have any questions, please don't hesitate to reach out to me at
